@@ -31,7 +31,7 @@ HAVEN-LAB
  HAVEN-DC01         HAVEN-PC01
  .10                .20
  Windows Server     Windows 11
-
+```
 
 ## Virtual Network Implementation
 
