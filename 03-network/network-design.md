@@ -31,3 +31,25 @@ HAVEN-LAB
  HAVEN-DC01         HAVEN-PC01
  .10                .20
  Windows Server     Windows 11
+
+
+## Virtual Network Implementation
+
+### Hyper-V Virtual Switch
+
+Name: HAVEN-LAB
+
+Type: Internal
+
+Purpose:
+
+The HAVEN-LAB virtual switch provides an isolated virtual network
+for the simulated Haven Property Management environment.
+
+The Internal switch allows the virtual machines to communicate
+with each other and allows the physical Windows host to participate
+in the laboratory network.
+
+Internet access is intentionally not provided at this stage.
+Internet connectivity will be introduced later when required by
+specific lab exercises.
